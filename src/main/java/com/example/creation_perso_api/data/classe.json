@@ -1,0 +1,257 @@
+[
+  {
+    "name": "assasins",
+    "caracteristique": {
+      "adr_min": 13,
+      "adr_max": 20,
+      "cha_min": 0,
+      "cha_max": 20,
+      "cou_min": 0,
+      "cou_max": 20,
+      "fo_min": 0,
+      "fo_max": 20,
+      "int_min": 0,
+      "int_max": 20
+    },
+    "competence": [
+      "deplacement silencieux",
+      "frapper lachement",
+      "tirer correctement"
+    ]
+  },
+  {
+    "name": "bourgeois",
+    "caracteristique": {
+      "adr_min": 0,
+      "adr_max": 20,
+      "cha_min": 11,
+      "cha_max": 20,
+      "cou_min": 0,
+      "cou_max": 20,
+      "fo_min": 0,
+      "fo_max": 20,
+      "int_min": 10,
+      "int_max": 20
+    },
+    "competence": [
+      "appel des renforts",
+      "attire les monstres",
+      "chevaucher",
+      "erudition",
+      "penible"
+    ]
+  },
+  {
+    "name": "guerrier",
+    "caracteristique": {
+      "adr_min": 0,
+      "adr_max": 20,
+      "cha_min": 0,
+      "cha_max": 20,
+      "cou_min": 12,
+      "cou_max": 20,
+      "fo_min": 12,
+      "fo_max": 20,
+      "int_min": 0,
+      "int_max": 20
+    },
+    "competence": [
+      "armes de bourrin",
+      "bourre-pif"
+    ]
+  },
+  {
+    "name": "ingenieur",
+    "caracteristique": {
+      "adr_min": 11,
+      "adr_max": 20,
+      "cha_min": 0,
+      "cha_max": 20,
+      "cou_min": 0,
+      "cou_max": 20,
+      "fo_min": 0,
+      "fo_max": 20,
+      "int_min": 0,
+      "int_max": 20
+    },
+    "competence": [
+      "bricolo du dimanche",
+      "desamorcer",
+      "forgeron",
+      "ressemble a rien",
+      "serrurier"
+    ]
+  },
+  {
+    "name": "mage",
+    "caracteristique": {
+      "adr_min": 0,
+      "adr_max": 20,
+      "cha_min": 0,
+      "cha_max": 20,
+      "cou_min": 0,
+      "cou_max": 20,
+      "fo_min": 0,
+      "fo_max": 20,
+      "int_min": 12,
+      "int_max": 20
+    },
+    "competence": [
+      "erudition",
+      "recuperation",
+      "runes bizarres"
+    ]
+  },
+  {
+    "name": "marchand",
+    "caracteristique": {
+      "adr_min": 0,
+      "adr_max": 20,
+      "cha_min": 11,
+      "cha_max": 20,
+      "cou_min": 0,
+      "cou_max": 20,
+      "fo_min": 0,
+      "fo_max": 20,
+      "int_min": 12,
+      "int_max": 20
+    },
+    "competence": [
+      "appel des renforts",
+      "arnaque et carambouille",
+      "erudition",
+      "fariboles",
+      "mefiance"
+    ]
+  },
+  {
+    "name": "menestrel",
+    "caracteristique": {
+      "adr_min": 11,
+      "adr_max": 20,
+      "cha_min": 12,
+      "cha_max": 20,
+      "cou_min": 0,
+      "cou_max": 20,
+      "fo_min": 0,
+      "fo_max": 20,
+      "int_min": 0,
+      "int_max": 20
+    },
+    "competence": [
+      "attire les monstres",
+      "chevaucher",
+      "erudition",
+      "fariboles",
+      "jonglage et danse",
+      "naivete touchante"
+    ]
+  },
+  {
+    "name": "paladin",
+    "caracteristique": {
+      "adr_min": 0,
+      "adr_max": 20,
+      "cha_min": 11,
+      "cha_max": 20,
+      "cou_min": 12,
+      "cou_max": 20,
+      "fo_min": 9,
+      "fo_max": 20,
+      "int_min": 10,
+      "int_max": 20
+    },
+    "competence": [
+      "chevaucher",
+      "intimider",
+      "recuperation"
+    ]
+  },
+  {
+    "name": "pirate",
+    "caracteristique": {
+      "adr_min": 11,
+      "adr_max": 20,
+      "cha_min": 0,
+      "cha_max": 20,
+      "cou_min": 11,
+      "cou_max": 20,
+      "fo_min": 0,
+      "fo_max": 20,
+      "int_min": 0,
+      "int_max": 20
+    },
+    "competence": [
+      "appel des renforts",
+      "appel du tonneau",
+      "arnaque et carambouille",
+      "chouraver",
+      "escalader",
+      "nager"
+    ]
+  },
+  {
+    "name": "pretre",
+    "caracteristique": {
+      "adr_min": 0,
+      "adr_max": 20,
+      "cha_min": 12,
+      "cha_max": 20,
+      "cou_min": 0,
+      "cou_max": 20,
+      "fo_min": 0,
+      "fo_max": 20,
+      "int_min": 0,
+      "int_max": 20
+    },
+    "competence": [
+      "erudition",
+      "mefiance",
+      "recuperation"
+    ]
+  },
+  {
+    "name": "ranger",
+    "caracteristique": {
+      "adr_min": 10,
+      "adr_max": 20,
+      "cha_min": 10,
+      "cha_max": 20,
+      "cou_min": 0,
+      "cou_max": 20,
+      "fo_min": 0,
+      "fo_max": 20,
+      "int_min": 0,
+      "int_max": 20
+    },
+    "competence": [
+      "deplacement silencieux",
+      "detection",
+      "chevaucher",
+      "nager",
+      "pister"
+    ]
+  },
+  {
+    "name": "voleur",
+    "caracteristique": {
+      "adr_min": 12,
+      "adr_max": 20,
+      "cha_min": 0,
+      "cha_max": 20,
+      "cou_min": 0,
+      "cou_max": 20,
+      "fo_min": 0,
+      "fo_max": 20,
+      "int_min": 0,
+      "int_max": 20
+    },
+    "competence": [
+      "appel des renforts",
+      "chouraver",
+      "deplacement silencieux",
+      "detection",
+      "serrurier"
+    ]
+  }
+]
