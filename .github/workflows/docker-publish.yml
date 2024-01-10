@@ -6,7 +6,7 @@ on:
 
 
 env:
-  TEST_TAG: louis3022/perso-api:test
+  TEST_TAG: louis3022/creation-perso-api:test
 
 jobs:
 
